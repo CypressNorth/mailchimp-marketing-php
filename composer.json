@@ -1,7 +1,7 @@
 {
-  "name": "cypressnorth/mailchimp-marketing-php",
+  "name": "mailchimp/marketing",
   "version": "3.0.81",
-  "description": "The Mailchimp Marketing PHP package with PHP 8.2 support.",
+  "description": "",
   "keywords": [
     "swagger",
     "php",
@@ -14,9 +14,6 @@
     {
       "name": "Mailchimp",
       "homepage": "https://github.com/mailchimp/mailchimp-marketing-php"
-    },
-    {
-      "name": "Tyler Dakin"
     }
   ],
   "require": {
